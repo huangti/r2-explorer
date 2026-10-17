@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+client/node_modules/
+
+# Environment variables & secrets (NEVER COMMIT)
+.env
+.env.*
+!.env.example
+
+# Build outputs
+dist/
+client/dist/
+build/
+
+# Cloudflare Wrangler temp & state
+.wrangler/
+
+# Logs & temp files
+*.log
+npm-debug.log*
+yarn-debug.log*
+.DS_Store
+Thumbs.db

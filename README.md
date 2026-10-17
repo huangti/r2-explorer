@@ -7,6 +7,7 @@
 ## 🌐 线上服务入口
 
 * **Web 管理控制台（生产环境）**：👉 **[https://r2.505250.xyz](https://r2.505250.xyz)**
+* **GitHub 代码仓库**：👉 **[https://github.com/huangti/r2-explorer](https://github.com/huangti/r2-explorer)**
 * **存储桶公开直链 CDN**：`https://bucketwna.505250.xyz`
 * **本地开发环境**：`http://localhost:5173`（前端）+ `http://localhost:3001`（后端）
 
